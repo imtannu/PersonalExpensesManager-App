@@ -1,6 +1,6 @@
 # PersonalExpensesManager-App
-======================================================================
-#Manage Personal Expenses 
+
+Manage Personal Expenses 
 #Store Category Wise Expenses
 #Add Expenses for particular category
 #Calculate and Monthly Expenses Report
